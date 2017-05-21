@@ -1,6 +1,4 @@
-此为STM32F103模板
-实现串口FIFO 的DEBUG功能
-其中COM0做为调试口
-实现DEBUG功能控制功能
-
+此为STM32F10x rtthread模板
+其中USART1做为调试口
+点灯为PB8引脚
 为其它工程做准备
